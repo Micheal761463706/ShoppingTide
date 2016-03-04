@@ -1,7 +1,8 @@
-package com.micheal.shoppingtide;
+package com.micheal.shoppingtide.Activity;
 
 
 import com.micheal.shoppingtide.Adapter.BaseActivity;
+import com.micheal.shoppingtide.R;
 
 /**
  *  首页
