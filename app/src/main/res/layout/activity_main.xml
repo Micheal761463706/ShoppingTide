@@ -7,7 +7,7 @@
     tools:context=".Activity.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="欢迎光临"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
