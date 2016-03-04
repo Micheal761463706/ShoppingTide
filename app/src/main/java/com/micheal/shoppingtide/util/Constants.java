@@ -6,7 +6,6 @@ package com.micheal.shoppingtide.util;
 public interface Constants {
 /*
 
- */
 
 
 /**
