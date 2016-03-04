@@ -1,4 +1,4 @@
-package util;
+package com.micheal.shoppingtide.util;
 
 import android.graphics.Bitmap;
 import android.os.Handler;

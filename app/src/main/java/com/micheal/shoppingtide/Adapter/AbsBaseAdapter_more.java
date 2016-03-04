@@ -1,4 +1,4 @@
-package Adapter;
+package com.micheal.shoppingtide.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,13 +6,15 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+
+import com.micheal.shoppingtide.custem.CacheImageView;
+
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import custem.CacheImageView;
 
 
 /**

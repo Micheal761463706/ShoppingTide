@@ -1,4 +1,4 @@
-package custem;
+package com.micheal.shoppingtide.custem;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,13 +8,13 @@ import android.util.LruCache;
 import android.widget.ImageView;
 
 import com.micheal.shoppingtide.R;
+import com.micheal.shoppingtide.util.DownUtil;
+import com.micheal.shoppingtide.util.ImageUtil;
 
 import java.lang.ref.SoftReference;
 import java.util.HashMap;
 import java.util.Map;
 
-import util.DownUtil;
-import util.ImageUtil;
 
 
 public class CacheImageView extends ImageView implements DownUtil.OnDownComplete {
