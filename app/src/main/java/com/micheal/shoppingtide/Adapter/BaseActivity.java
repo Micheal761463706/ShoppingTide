@@ -24,13 +24,13 @@ public abstract class BaseActivity extends AppCompatActivity{
     /**
      *  用于初始化控件方法
      */
-    private void initView() {
+    protected void initView() {
     }
 
     /**
      *  用于加载数据
      */
-    private void dataLoad() {
+    protected void dataLoad() {
     }
 
 
